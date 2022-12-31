@@ -64,10 +64,10 @@ if streamlit.button('Get Fruit load List:'):
   streamlit.dataframe(my_data_rows)
   
 streamlit.stop()
-my_cur = my_cnx.cursor()
+#my_cur = my_cnx.cursor()
 
 
-my_data_rows= 
+#my_data_rows= 
 
 
 
